@@ -2,6 +2,16 @@ Coming soon
 
 # [WūJīMāChā Essay+ English](https://www.wujimacha.com/essay-plus-eng)
 
+Comments, feedback and suggestions please head to the [Discussions](https://github.com/wujimacha/Essay-Plus-English/discussions) page.
+
+To see what the editor team is up to, please head to the [Projects](https://github.com/wujimacha/Essay-Plus-English/projects) page.
+
+Happy offline reading : )
+
+---
+
+### About
+
 Since the dawning of the digital era, the living space of man has been gradually and unconsciously replaced by the growing domain of data exchange, solely for the sake of efficiency and functionality. Thinking and Literature, as the most important forms of social life, have become groundless thereby. In order to secure a dwelling place for these activities, we decide to receive contributions (in both English and Chinese) in the name of  *WūJīMāChā Essay+*, with no limitations on theme, material, and inclination. But the major focus will be on various forms of literature (poetry,  prose, novels) and its criticism, as well as works of thought and its criticism. 
 
 All contents will follow the terms under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) 
